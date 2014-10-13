@@ -1,0 +1,13 @@
+C:\retrosheet\repo\retrosheet-import\RetrosheetIDs\RetrosheetIDs\bin\Release\RetrosheetIDs.exe.config
+C:\retrosheet\repo\retrosheet-import\RetrosheetIDs\RetrosheetIDs\bin\Release\RetrosheetIDs.exe
+C:\retrosheet\repo\retrosheet-import\RetrosheetIDs\RetrosheetIDs\bin\Release\RetrosheetIDs.pdb
+C:\retrosheet\repo\retrosheet-import\RetrosheetIDs\RetrosheetIDs\obj\Release\RetrosheetIDs.exe
+C:\retrosheet\repo\retrosheet-import\RetrosheetIDs\RetrosheetIDs\obj\Release\RetrosheetIDs.pdb
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\RetrosheetIDs\RetrosheetIDs\bin\Release\RetrosheetIDs.exe.config
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\RetrosheetIDs\RetrosheetIDs\obj\Release\RetrosheetIDs.exe
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\RetrosheetIDs\RetrosheetIDs\obj\Release\RetrosheetIDs.pdb
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\retrosheet-import-ids\RetrosheetIDs\bin\Release\RetrosheetIDs.exe.config
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\retrosheet-import-ids\RetrosheetIDs\bin\Release\RetrosheetIDs.exe
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\retrosheet-import-ids\RetrosheetIDs\bin\Release\RetrosheetIDs.pdb
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\retrosheet-import-ids\RetrosheetIDs\obj\Release\RetrosheetIDs.exe
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\retrosheet-import-ids\RetrosheetIDs\obj\Release\RetrosheetIDs.pdb
